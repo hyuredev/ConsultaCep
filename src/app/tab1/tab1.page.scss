@@ -1,0 +1,41 @@
+* {
+    font-family: Arial, sans-serif;
+    color: black;
+  }
+
+  body, ion-app {
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+  }
+
+  ion-header, ion-content, ion-footer {
+    background-color: #ffffff;
+  }
+
+  ion-header {
+    position: relative;
+  }
+
+  #titulo {
+    font-size: 50px;
+  }
+
+  #container {
+    text-align: center;  
+    padding: 20px;
+  }
+
+  #titulo {
+    font-size: 30px;        
+    font-family: 'Arial', sans-serif;  
+    color: #007bff;         
+    margin-bottom: 10px;    
+  }
+
+  #subtitulo {
+    font-size: 24px;        
+    font-family: 'Arial', sans-serif; 
+    color: #333;            
+    margin-bottom: 20px; 
+  }
